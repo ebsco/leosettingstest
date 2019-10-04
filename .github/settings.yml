@@ -3,3 +3,9 @@ repository:
 
   # The name of the repository. Changing this will rename the repository
   name: leosettingstest
+  
+# NOTE: The APIs needed for teams are not supported yet by GitHub Apps
+# https://developer.github.com/v3/apps/available-endpoints/
+teams:
+  - name: leoteam
+    permission: admin
