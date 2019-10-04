@@ -2,7 +2,7 @@ repository:
   # See https://developer.github.com/v3/repos/#edit for all available settings.
 
   # The name of the repository. Changing this will rename the repository
-  name: leosettingstestdogs
+  name: leosettingstest
   
 # NOTE: The APIs needed for teams are not supported yet by GitHub Apps
 # https://developer.github.com/v3/apps/available-endpoints/
