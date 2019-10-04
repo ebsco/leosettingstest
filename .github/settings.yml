@@ -8,4 +8,4 @@ repository:
 # https://developer.github.com/v3/apps/available-endpoints/
 teams:
   - name: leoteam
-    permission: admin
+    permission: push
